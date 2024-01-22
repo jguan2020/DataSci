@@ -9,4 +9,4 @@ Both algorithms had similar performances at about 84% accuracy averaged over 100
 Data was compiled from Kaggle using the dataset "Global Environmental Indicators" by Sazidul Islam.
 Data from agricultural land area was from 2015, data from forest area was from 2015, data from CO2 emissions was from 2015, and data from terrestrial marine protected areas was from 2018.
 
-Frameworks used: Pandas, PyTorch, Tensorflow, sklearn
+Frameworks used: Pandas, PyTorch, sklearn
